@@ -19,11 +19,11 @@ NickName: '1Oin0'
 webtitle: 'Veni Vedi Vici'
 bio: '可怜弱小又无助的小辣鸡'
 about: true
-aboutyou: '大三在校生，主要学习二进制方向，小辣鸡一枚，欢迎各位大佬分享交流！'
+aboutyou: '大三在校小辣鸡一枚，主要学习二进制方向，涉及漏洞挖掘有关内容，主要做一些漏洞分析和挖掘利用。欢迎各路大佬分享交流！
 portraits: '/assets/portrait.jpeg' # your portraits image file path
 
 # SNS
-SNS: false
+SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
   #mail: 'y-1Oin0@qq.com'
   #weixin: '' # 你的微信二维码存放的地址
