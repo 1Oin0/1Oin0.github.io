@@ -23,7 +23,7 @@ aboutyou: '大三在校生，主要学习二进制方向，小辣鸡一枚，欢
 portraits: '/assets/portrait.jpeg' # your portraits image file path
 
 # SNS
-SNS: true
+SNS: false
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
   #mail: 'y-1Oin0@qq.com'
   #weixin: '' # 你的微信二维码存放的地址
@@ -41,7 +41,7 @@ SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagr
   #twitch: ''
 
 # 分页
-paginate: 2
+paginate: 3
 paginatepath: ['page:num']
 
 # since
